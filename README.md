@@ -36,6 +36,6 @@ Text generation	       gpt2, distilgpt2 (also fine-tuned on the book), gpt2-medi
 Assumptions:
 
 No reference summaries or French translations of this book exist on Gutenberg, so we wrote 6 reference summaries and used translation (EN -> FR -> EN) for BLEU/ROUGE.
-The 12 QA test questions and answers were written by me from the book text.
+The 12 QA test questions and answers were written by us from the book text.
 Chapter 16 is held out for perplexity and not used for fine-tuning.
 Random seeds are fixed, but sampling results can still change a little between GPUs/library versions.
