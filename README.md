@@ -1,6 +1,11 @@
-# 4372_Assignment4
+# 4372 Assignment4
 
 **NLP Using Transformers**
+
+Google Colab: https://colab.research.google.com/drive/12c7R5gu1Ir5imhe8XWmZU924GfqrwtFN?usp=sharing
+
+Team: Elizaveta Makhonina & Avizeh Walji 
+Net ID: dal445515 & anw230000
 
 Assignment 4: 1 notebook does all four tasks on one Project Gutenberg book: text summarization, machine translation (English → French), a question-answering chatbot, and text generation.
 
